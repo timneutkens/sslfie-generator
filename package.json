@@ -1,0 +1,16 @@
+{
+  "name": "sslfie-generator",
+  "version": "1.0.0",
+  "description": "Generate self signed certificates using sslfie",
+  "main": "index.js",
+  "bin" : { "sslfie-generator" : "./index.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Neutkens",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "shelljs": "^0.7.0"
+  }
+}
