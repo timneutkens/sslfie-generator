@@ -29,4 +29,5 @@ Available options are:
 ```
 -h, --help     output usage information
 -V, --version  output the version number
+-o, --output <output>  Output directory
 ```
